@@ -1,3 +1,18 @@
+#Nature Navigator
+
+This app was developed to have a more userfriendly access of the national parks database to view national parks in your area and the hiking trails they have.
+
+###User Story
+
+Have you ever been in a new city and decided to get outside and exerpience its local scenery? With Nature Navigator you can get that experience easier. With up to date directions and trail stats you can know what your getting yourself into.
+
+###Stretch Goals
+-offline mobile use
+-Optimization for smart watches.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
