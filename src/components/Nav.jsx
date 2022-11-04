@@ -5,6 +5,7 @@ export default function Nav () {
         <div>
             <Link to = "/"> Home </Link>
             <Link to = "/parks"> National Parks </Link>
+            <Link to = "/events"> Events </Link>
         </div>
     )
 }

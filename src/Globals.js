@@ -1,1 +1,1 @@
-export const BASE_URL = 'developer.nps.gov/api/v1'
+export const BASE_URL = 'https://developer.nps.gov/api/v1'
