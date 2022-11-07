@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
 import { Link } from 'react-router-dom'
-import NationalPark from '../components/NationalParks'
+import NationalParks from '../components/NationalParks'
 import Home from './Home'
 import Events from '../components/Events'
 
@@ -9,7 +9,7 @@ export default function Main () {
         <div>
            <Routes>
             <Route path ="/" element={<Home/>} />
-            <Route exact path="/parks" element={<NationalPark />} />
+            <Route exact path="/parks" element={<NationalParks />} />
             <Route path = "/events" element={<Events />} />
             
             </Routes>

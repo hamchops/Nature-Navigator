@@ -11,9 +11,15 @@ Have you ever been in a new city and decided to get outside and exerpience its l
 -Optimization for smart watches.
 
 
+###Resources
 
+https://masteringjs.io/tutorials/axios/headers
 
-# Getting Started with Create React App
+https://bobbyhadz.com/blog/javascript-unexpected-reserved-word-await#:~:text=The%20%22unexpected%20reserved%20word%20await,of%20how%20the%20error%20occurs.
+
+https://medium.com/@philipkrause7/using-environment-variables-in-react-js-to-keep-your-keys-safe-b0609b2cbc07
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -82,4 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

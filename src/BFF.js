@@ -6,8 +6,8 @@ require ('dotenv').config()
 
 const app = express()
 
-app.get('/', (req, res => {
+app.get('/', (req, res) => {
     res.json('hi')
-}))
+})
 
-app.listen(8000, () => console.log(`Server is running on ${PORT}`))
+app.listen(PORT, () => console.log('Server is running on ${PORT}'))
