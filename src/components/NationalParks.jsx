@@ -25,7 +25,7 @@ async function getData () {
                 'X-API-KEY':'jC57fErKXSOJp9TWfqYWNEIET7FxgUSdJ3iHD1eS'}
             });
 
-            res.data.headers[`${'X-API-KEY'}`];
+         return ( res.data.headers['X-API-KEY'] )
         }
 
 //         const res = axios.post('https://developer.nps.gov/api/v1/post', {
